@@ -226,7 +226,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"Museo20"
+		"font"			"Futura20"
 		"fgcolor"		"255 255 255 255"
 	}	
 	"ServerTimeLimitLabelBG"

@@ -23,7 +23,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"TimePanelValue"
-		"font"			"Museo14" 
+		"font"			"Futura14" 
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"32"
 		"ypos"			"16" //18
