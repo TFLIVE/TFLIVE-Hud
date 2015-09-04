@@ -137,7 +137,7 @@
 			{
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
-				"xpos"			"6"
+				"xpos"			"3" //6
 				"ypos"			"0"
 				"zpos"			"2"
 				"wide"			"13"
@@ -289,7 +289,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"	"chargeamount"
 				"font"		"FuturaBold9"
-				"xpos"			"0"
+				"xpos"			"-2" //0
 				"ypos"			"0"
 				"zpos"			"6"
 				"wide"			"24"
