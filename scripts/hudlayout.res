@@ -796,7 +796,7 @@
         "CornerRadius"    "1"
         "RightJustify"    "1"   // If 1, draw notices from the right
         
-        "TextFont"      "latoreg14"
+        "TextFont"      "Futura12"
         
         "TeamBlue"      "104 124 155 255" //
         "TeamRed"       "180 92 77 255"        

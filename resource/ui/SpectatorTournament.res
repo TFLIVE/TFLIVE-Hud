@@ -114,7 +114,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"playername"
-				"font"			"ralewayreg10"
+				"font"			"Futura10"
 				"xpos"			"26"
 				"ypos"			"0"
 				"zpos"			"5"
@@ -244,7 +244,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"respawntime"
-				"font"		"Medium9"
+				"font"		"FuturaBold10"
 				"xpos"			"100"
 				"ypos"			"0"
 				"zpos"			"6"

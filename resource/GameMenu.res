@@ -2,12 +2,12 @@
 {
 	"Credits"
 	{
-		"label" "rhB HUD v1.5"
+		"label" "TFLive Hud"
 		"command" "engine showconsole; clear"
 	}
 	"Credits2"
 	{
-		"label" "Modified by rhK"
+		"label" "Edited by Fozzlm"
 		"command" "engine showconsole; clear"
 	}
 	"FavoriteServer"

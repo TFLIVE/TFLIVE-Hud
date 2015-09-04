@@ -142,10 +142,10 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamLabel"
-			"font"			"Museo16"
+			"font"			"Futura14"
 			"labelText"		"%blueteamname%"
 			"textAlignment"		"west"
-			"xpos"			"c-85"
+			"xpos"			"c-100" //c-85
 			"ypos"			"r100"
 			"zpos"			"3"
 			"wide"			"86"
@@ -178,10 +178,10 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamLabel"
-			"font"			"Museo16"
+			"font"			"Futura14"
 			"labelText"		"%redteamname%"
 			"textAlignment"		"east"
-			"xpos"			"c-1"
+			"xpos"			"c14" //c-1
 			"ypos"			"r100"
 			"zpos"			"3"
 			"wide"			"86"
@@ -228,7 +228,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
-		"font"			"Museo16"
+		"font"			"Futura14"
 		"xpos"			"c-105"
 		"ypos"			"r70"
 		"zpos"			"2"
@@ -288,7 +288,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"DetailsLabel"
-		"font"			"Museo8"
+		"font"			"Futura8"
 		"xpos"			"c-105"
 		"ypos"			"r82"
 		"zpos"			"3"

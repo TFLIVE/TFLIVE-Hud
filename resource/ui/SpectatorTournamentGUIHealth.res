@@ -120,7 +120,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"textAlignment"	"east"
-		"font"			"ralewaybold14"
+		"font"			"FuturaBold12"
 	}
 	"PlayerStatusHealthValueSTour" //health on ppl
 	{	
@@ -136,6 +136,6 @@
 		"labeltext"		"%Health%"
 		"textAlignment"		"center"
 		"fgcolor"			"32 32 32 255"
-		"font"			"ralewaybold14"
+		"font"			"FuturaBold12"
       }								
 }

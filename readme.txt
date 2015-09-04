@@ -1,3 +1,6 @@
-Customised casting HUD for TFLive by Fozzlm based upon rhBHUD made by rhK but based on the HUD made by b4stian so full credit to him
+Customised casting HUD for TFLive by Fozzlm based upon rhBHUD made by rhK based on bastHUD made by b4stian.
 
-(There are too many names in this bit ;__;)
+Watch matches live at: http://www.twitch.tv/tflivetv
+Watch vods at: https://www.youtube.com/user/TFLIVEAU
+Download rhB HUD: http://huds.tf/forum/showthread.php?tid=25
+Download bastHUD: http://huds.tf/basthud/

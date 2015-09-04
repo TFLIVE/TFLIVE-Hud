@@ -2450,17 +2450,196 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"Futura7"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"7"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura8"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"Futura9"
 		{
 			"1"
 			{
 				"name"		"Montserrat-Regular"
 				"tall"		"9"
-				"additive"		"0"
-				"antialias"	"1"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
-
+		"Futura10"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"10"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura11"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura12"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura14"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura16"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura18"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"18"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura20"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura22"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"22"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura24"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura26"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"26"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura32"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"32"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura40"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"40"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura60"
+		{
+			"1"
+			{
+				"name"		"Montserrat-Regular"
+				"tall"		"60"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"FuturaBold9"
+		{
+			"1"
+			{
+				"name"		"Montserrat Extra Bold"
+				"tall"		"9"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"FuturaBold10"
+		{
+			"1"
+			{
+				"name"		"Montserrat Extra Bold"
+				"tall"		"10"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"FuturaBold12"
+		{
+			"1"
+			{
+				"name"		"Montserrat Extra Bold"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"CrossHairRequest"
 		{
 			"1"
