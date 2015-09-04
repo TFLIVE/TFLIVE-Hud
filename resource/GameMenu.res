@@ -2,7 +2,7 @@
 {
 	"Credits"
 	{
-		"label" "TFLive Hud"
+		"label" "TFLiveHUD"
 		"command" "engine showconsole; clear"
 	}
 	"Credits2"

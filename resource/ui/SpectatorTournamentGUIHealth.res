@@ -59,10 +59,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBarThin"
-		"xpos"			"100" //100
+		"xpos"			"20" //100
 		"ypos"			"0"
 		"zpos"			"0"
-		"wide"			"50"
+		"wide"			"25" //50
 		"tall"			"14"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -126,7 +126,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueSTour"
-		"xpos"			"100"
+		"xpos"			"18" //100
 		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"31"
