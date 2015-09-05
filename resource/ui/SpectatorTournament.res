@@ -294,7 +294,7 @@
 				"zpos"			"6"
 				"wide"			"24"
 				"tall"			"13"
-				"visible"		"1"
+				"visible"		"0" //1
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"center"
 				"fgcolor"		"0 221 255 255"
