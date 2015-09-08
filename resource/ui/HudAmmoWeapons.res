@@ -183,7 +183,7 @@
 		"wide"	        "64" 
 		"tall"	        "40" 
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"textAlignment"	"west"		
 		"labelText"		"%Ammo%"
 	}

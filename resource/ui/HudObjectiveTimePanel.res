@@ -67,7 +67,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"WaitingForPlayersLabel"
 		"xpos"			"15"
-		"ypos"			"20"
+		"ypos"			"28" //20
 		"zpos"			"5"
 		"wide"			"123"
 		"tall"			"13"
@@ -78,8 +78,8 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"Museo12"
-		"fgcolor"			"234 234 234 255"
+		"font"			"Futura12"
+		"fgcolor"			"255 255 255 255"
 	}			
 	"WaitingForPlayersBG"
 	{
@@ -218,7 +218,7 @@
 		"wide"			"56"
 		"wide_hidef"	"300"
 		"wide_lodef"	"300"
-		"tall"			"14"
+		"tall"			"16" 
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"%servertimeleft%"

@@ -34,7 +34,7 @@
 		"ypos"			"23" //38
 		"zpos"			"1"
 		"wide"			"26"
-		"tall"	 		"-40"
+		"tall"	 		"-40" 
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -78,14 +78,14 @@
 		"ypos"			"11"
 		"zpos"			"0"
 		"wide"			"500"
-		"tall"			"13"
+		"tall"			"13" //13
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"alpha"			"255"
-		"fillcolor"		"32 32 32 150"
+		"fillcolor"		"32 32 32 0" //32 32 32 150
 		"PaintBackgroundType"	"0"
 	}
 	"TargetNameLabel"
@@ -93,7 +93,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabel"
 		//"font"			"Museo14"
-		"font"			"Futura12"
+		"font"			"Futura14"
 		"xpos"			"40"
 		"ypos"			"5"
 		"zpos"			"1"
@@ -113,10 +113,10 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetDataLabel"
-		//"font"			"Museo11"
-		"font"			"Futura10"
+		//"font"			"Futura11"
+		"font"			"Futura8"
 		"xpos"			"40"
-		"ypos"			"21"	
+		"ypos"			"-2" //21
 		"zpos"			"4"
 		"wide"			"640"
 		"tall"			"17"
@@ -172,7 +172,7 @@
 		"ypos"			"0"
 		"zpos"			"-5"
 		"wide"			"32" 
-		"tall"			"36" 
+		"tall"			"36" //36
 		"visible"		"0"
 		"enabled"		"0"	
 		

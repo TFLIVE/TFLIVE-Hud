@@ -2640,6 +2640,16 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"FuturaBold16"
+		{
+			"1"
+			{
+				"name"		"Montserrat Extra Bold"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"CrossHairRequest"
 		{
 			"1"

@@ -16,7 +16,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"ralewayreg16"
+			"font"			"Futura16"
 			"fgcolor"		"234 234 234 255"
 			"xpos"			"32"
 			"ypos"			"-2"
@@ -46,7 +46,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"ralewayreg16"
+			"font"			"Futura16"
 			"fgcolor"		"234 234 234 255"
 			"xpos"			"32"
 			"ypos"			"-2"
@@ -59,7 +59,32 @@
 			"labelText"		"0:00"
 		}	
 	}
-	
+        "RedBG"
+        {
+            "ControlName"	"ImagePanel"
+            "fieldName"		"RedBG"
+            "xpos"          "176"	//80
+            "ypos"          "0"
+            "zpos"          "-8"
+            "wide"          "56"	//80
+            "tall"          "18"
+            "fillcolor"		"180 92 77 127"
+            "visible"		"1"
+            "enabled"		"1"
+        }
+        "BlueBG"
+        {
+            "ControlName"	"ImagePanel"
+            "fieldName"		"BlueBG"
+            "xpos"          "87"	//20
+            "ypos"          "0"
+            "zpos"          "-8"
+            "wide"          "56"	//80
+            "tall"          "18" //3
+            "fillcolor"		"104 124 155 127"	//255 255 255 150
+            "visible"		"1"
+            "enabled"		"1"
+        }
 	"ActiveTimerBG"
 	{
 		"ControlName"		"ImagePanel"
@@ -67,7 +92,7 @@
 		"xpos"				"0"
 		"ypos"				"18"
 		"zpos"				"-5"
-		"wide"				"56"
+		"wide"				"55"
 		"tall"				"3"
 		"fillcolor"		"234 234 234 255"
 		"visible"			"0"
