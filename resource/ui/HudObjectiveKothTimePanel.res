@@ -34,7 +34,7 @@
 	{
 		"ControlName"		"CTFHudTimeStatus"
 		"fieldName"			"RedTimer"
-		"xpos"				"128"
+		"xpos"				"130" //128
 		"ypos"				"0"
 		"zpos"				"2"
 		"wide"				"125"
@@ -63,7 +63,7 @@
         {
             "ControlName"	"ImagePanel"
             "fieldName"		"RedBG"
-            "xpos"          "176"	//80
+            "xpos"          "178"	//176
             "ypos"          "0"
             "zpos"          "-8"
             "wide"          "56"	//80
